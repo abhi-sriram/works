@@ -1,0 +1,9 @@
+.sidebar{
+    padding:25px 10px;
+    /* flex:1; */
+}
+@media only screen and (max-width: 500px) {
+    .sidebar{
+        display:none;
+    }
+}

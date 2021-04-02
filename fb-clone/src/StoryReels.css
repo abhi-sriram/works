@@ -1,0 +1,13 @@
+.storyReels{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color:transparent;
+}
+@media only screen and (max-width: 500px) {
+    .storyReels{
+        display:flex;
+        justify-content: center;
+        margin-left: 10px;
+    }
+}
